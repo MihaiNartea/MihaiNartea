@@ -1,5 +1,7 @@
 ### Salutare! ✋
-Salut, eu sunt Mihai Nartea, student la Universitatea de Stat din Moldova, facultatea de matematica si informatica, la specialitatea informatica aplicata.
+Hi, my name is Mihai Nartea. 👨‍💻 
+
+Studying at: * Universitatea de Stat din Moldova *Computer Science
 
 La moment fac niste cursuri de FrontEnd Developer la StepIT.
 
