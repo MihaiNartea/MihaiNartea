@@ -1,16 +1,23 @@
 ### Salutare! ✋
 Hi, my name is Mihai Nartea. 👨‍💻 
 
-Studying at: ..*Universitatea de Stat din Moldova ..*Computer Science
+Studying at: 
++ Universitatea de Stat din Moldova, Computer Science. 😎
++ StepIT - FrontEnd Developer. 💻
 
-La moment fac niste cursuri de FrontEnd Developer la StepIT.
+Languages I know 🙂: 
++ HTML
++ CSS
++ C and C++
 
-Limbajele care le cunosc la moment sunt `HTML`, `CSS`.
+At the moment I learn 😮:
++ JavaScript
++ Prolog
++ Php
 
-Limbajele care le invat la moment sunt JavaScript.
+What I would want to learn 🏫: 
++ Framework `React` and `Angular`. 
 
-Doresc sa invat un framework cum ar fi Angular.
-
-Ma puteti contacta pe email: narteamihai222@gmail.com
+Contact me at: narteamihai222@gmail.com ✉
 
 ![avatar](./images/62cf6bd0938fda2f588142b86920161a.png)
