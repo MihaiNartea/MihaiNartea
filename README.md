@@ -1,4 +1,4 @@
-### Salutare! ✋
+### Hey, thank you for visiting my profile! ✋
 Hi, my name is Mihai Nartea. 👨‍💻 
 
 Studying at: 
