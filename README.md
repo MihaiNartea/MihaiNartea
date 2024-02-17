@@ -1,7 +1,7 @@
 ### Salutare! ✋
 Hi, my name is Mihai Nartea. 👨‍💻 
 
-Studying at: * Universitatea de Stat din Moldova *Computer Science
+Studying at: ..*Universitatea de Stat din Moldova ..*Computer Science
 
 La moment fac niste cursuri de FrontEnd Developer la StepIT.
 
