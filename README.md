@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mihai 👋
 
-<!--
-**MihaiNartea/MihaiNartea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Web Developer currently studying at the **University of Moldova**, Faculty of Computer Science, Year III. I have completed Full Stack Web Developer courses at **Step IT** in Moldova, where I gained hands-on experience in web development using a variety of technologies.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
+- **Frontend**: HTML, CSS, JavaScript, React, Laravel
+- **Backend**: PHP, MySQL, Laravel, Node.js
+- **Other**: Git, APIs, MVC Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+I'm currently deepening my knowledge in full-stack development, working on various personal projects, and building skills in both frontend and backend technologies.
+
+## 🎓 Education
+- **University of Moldova**, Faculty of Computer Science, Year III
+- **Step IT**, Full Stack Web Developer courses
+
+## 🚀 Let's Connect!
+Feel free to check out my repositories or reach out to me via:
+- 📧 Email: [mihainartea222@gmail.com](mailto:mihainartea222@gmail.com)
+- 💬 Telegram: [@whoisNartea](https://t.me/whoisNartea)
+
+I'm always open to learning and growing in the world of web development!
